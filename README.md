@@ -449,9 +449,6 @@ See [docs/VERIFICATION.md](docs/VERIFICATION.md) for detailed verification repor
 
 MIT License
 
-## 👤 Author
-
-Ahmad Ali - Radio Test Automation Framework
 
 ---
 
